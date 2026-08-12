@@ -1,0 +1,16 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-color: darkseagreen;
+}
+.col{
+	width: 200px ;
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	float: left;
+	padding: 10px;
+	margin-left: 10px;
+	border-radius: 20px;
+	text-align: justify;
+}
