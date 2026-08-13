@@ -1,0 +1,28 @@
+.b1{
+	border-style: solid ;
+	border-width: 2px;
+	margin-top: 5px;
+}
+.b2{
+	border-style: double;
+	border-width: 2px;
+	margin-top: 5px;
+}
+.b3{
+	border-style: dotted;
+	border-width: 2px;
+	margin-top: 5px;
+}
+.b4{
+	border-style: inset;
+	border-width: 2px;
+	margin-top: 5px;
+}.b5{
+	border-style: outset;
+	border-width: 2px;
+	margin-top: 5px;
+}.b6{
+	border-style: ridge;
+	border-width: 2px;
+	margin-top: 5px;
+}

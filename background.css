@@ -1,0 +1,12 @@
+body{
+	/*1.background color*/
+	background: skyblue;
+
+	/*2.background color*/
+	background-image: url(https://th.bing.com/th/id/OIP.KGzFk3stYEQcOJwaw7vbzwHaEH?w=328&h=182&c=7&r=0&o=7&pid=1.7&rm=3);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	/*3.background color*/
+	/*background: linear-gradient(to right,red,yellow);*/
+}
