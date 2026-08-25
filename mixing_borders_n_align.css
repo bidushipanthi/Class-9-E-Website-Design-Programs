@@ -1,0 +1,22 @@
+.row{	
+	width: 200px;
+	float: left;
+	margin: 10px;	
+	border-width: 2px;
+
+}	
+.p1{
+	text-align: left;
+}
+.p2{
+	text-align: right;
+	border-style: double;
+}
+.p3{
+	text-align: center;
+	border-style: dotted;
+}
+.p4{
+	text-align: justify;
+	border-style: inset;
+}

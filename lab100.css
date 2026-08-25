@@ -1,0 +1,31 @@
+.o{
+	margin: 0px;
+	padding: 0PX;
+}
+
+.a{
+	font-size: 20px;
+	width: 300px;
+	border: 2px solid black;
+	float: left;
+	margin: 5px;
+	padding: 10px;
+	background: skyblue;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 0px;
+}
+.a:hover{
+	font-size: 20px;
+	width: 300px;
+	border: 2px solid black;
+	float: left;
+	margin: 5px;
+	padding: 10px;
+	background: lightcoral;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 30px;
+}
