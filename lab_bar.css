@@ -1,0 +1,68 @@
+body{
+	background: #5e0513;
+	padding: 0px;
+	margin: 0px;
+}
+
+ul{
+	list-style-type: none;
+	display: block;	
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	background: #e60023;
+	width: 100%;
+}
+
+ul li{
+	float: left;
+	display: block;
+}
+
+ul li a{
+	display: block;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+}
+
+ul li a:hover{
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+	background: #96091f;
+}
+.active{
+	background-color: #96091f;	
+}
+
+/*hide dropdown */
+ul li ul{
+	display: none;
+	position: absolute;
+	background: black;
+
+}
+
+ul li:hover ul{
+	background: #e60023;
+	display: block;
+}
+
+ul li ul li{
+	float:left;
+	display: block;
+}
+
+ul li ul li a{
+	display: block;
+	
+	float: left;
+}
+h1{
+	color: white;
+	padding: 20px;
+	align-content: center;
+}
